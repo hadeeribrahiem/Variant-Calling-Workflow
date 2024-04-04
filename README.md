@@ -13,25 +13,23 @@ bash setup.sh
 ```
 ## Work flow 
 
-1- Install tools (fastqc, multiqc, samtools, BWA, Freebays, bcftools, tabix). 
+1- Download the exapmle data (parird-end FASTQ Reads).
 
-2- Download the exapmle data (parird-end FASTQ Reads).
+2- Download the reference Genome.
 
-3- Download the reference Genome.
+3- Assess Quality of Reads.
 
-4- Assess Quality of Reads.
+4- Read Mapping.
 
-5- Read Mapping.
+5- Filter Alignment Records.
 
-6- Filter Alignment Records.
+6- Mark Duplicates.
 
-7- Mark Duplicates.
+7- Variant calling.
 
-8- Variant calling.
+8- Basic statistic.
 
-9- Basic statistic.
-
-10- Filter the Variants.
+9- Filter the Variants.
 
 ## Tools Used
 
