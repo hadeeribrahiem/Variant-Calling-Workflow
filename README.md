@@ -10,4 +10,21 @@ Run the provided setup script `setup.sh` to install the necessary tools using Co
 
 ```bash
 bash setup.sh
+```
 
+## Tools Used
+
+The following bioinformatics tools are used in this workflow:
+
+- FastQC
+- Trimmomatic
+- BWA
+- SAMtools
+- BCFtools
+- VCFtools
+- MultiQC
+
+## Note
+
+- Make sure to update file paths according to your directory structure.
+- Customize the workflow based on your specific requirements.
